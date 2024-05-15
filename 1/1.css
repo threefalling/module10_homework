@@ -1,0 +1,24 @@
+.button {
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+}
+
+.button-text {
+    font-size: 2em;
+    padding: 0.5em;
+}
+
+.button-icon {
+    width: 15px;
+    height: 15px;
+    font-size: 2em;
+    padding: 0.5em;
+}
+
+.hidden {
+    display: none;
+}
